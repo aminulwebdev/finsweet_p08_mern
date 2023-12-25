@@ -20,6 +20,10 @@ tailwind.config = {
       maxWidth: {
         'container': '1280px',
       },
+      backgroundImage: {
+        'banner': "url('./images/banner_img.jpg')",
+
+      }
     }
   }
 }
